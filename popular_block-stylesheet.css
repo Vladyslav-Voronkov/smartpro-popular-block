@@ -1,0 +1,30 @@
+
+/* Виджет популярного товара */
+.popular_card{
+  background: #fff;
+  border-radius: 5px;
+  width: 50px;
+  width: 100%;
+} 
+
+/* Изображение */
+.popular_card > img {
+  width: 100%;
+}
+
+/* Просмотры */
+.views{
+  display: flex;
+  align-content: inherit;
+  color: #555;
+}
+
+/* Название товара */
+.popular_name{
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+  color: #222;
+  margin: 20px 0px;
+}
